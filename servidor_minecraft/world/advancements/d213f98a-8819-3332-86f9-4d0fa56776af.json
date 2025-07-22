@@ -1196,7 +1196,8 @@
       "minecraft:piglin": "2025-07-21 23:58:09 +0000",
       "minecraft:stray": "2025-07-21 22:39:41 +0000",
       "minecraft:vex": "2025-07-22 16:32:23 +0000",
-      "minecraft:zombie": "2025-07-21 17:39:28 +0000"
+      "minecraft:zombie": "2025-07-21 17:39:28 +0000",
+      "minecraft:drowned": "2025-07-22 18:30:29 +0000"
     },
     "done": false
   },
@@ -1954,7 +1955,9 @@
     "criteria": {
       "entered_pillager_camp": "2025-07-21 21:50:39 +0000",
       "entered_hay_storage": "2025-07-21 19:28:46 +0000",
+      "entered_mushroom_house": "2025-07-22 18:13:58 +0000",
       "entered_druid_circle": "2025-07-21 22:26:43 +0000",
+      "entered_sunken_shrine": "2025-07-22 18:30:12 +0000",
       "entered_ruined_building": "2025-07-21 17:53:49 +0000",
       "entered_monster_maze": "2025-07-22 16:31:26 +0000"
     },
@@ -5711,6 +5714,18 @@
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-07-22 18:11:44 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:rarest_structure": {
+    "criteria": {
+      "entered_mushroom_house": "2025-07-22 18:13:58 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/glow_goop": {
+    "criteria": {
+      "has_glow_berries": "2025-07-22 18:16:20 +0000"
     },
     "done": true
   },
