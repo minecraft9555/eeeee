@@ -149,6 +149,7 @@
       "bamboo_forest": "2025-07-21 22:15:18 +0000",
       "cold_boreal_taiga": "2025-07-22 00:43:59 +0000",
       "temperate_grove": "2025-07-21 21:37:27 +0000",
+      "pine_slopes": "2025-07-22 18:04:51 +0000",
       "grassland": "2025-07-21 17:24:00 +0000",
       "prairie": "2025-07-21 17:53:41 +0000",
       "gravel_beach": "2025-07-21 22:35:56 +0000",
@@ -187,6 +188,7 @@
       "bamboo_forest": "2025-07-21 22:15:18 +0000",
       "cold_boreal_taiga": "2025-07-22 00:43:59 +0000",
       "temperate_grove": "2025-07-21 21:37:27 +0000",
+      "pine_slopes": "2025-07-22 18:04:51 +0000",
       "grassland": "2025-07-21 17:24:00 +0000",
       "prairie": "2025-07-21 17:53:41 +0000",
       "gravel_beach": "2025-07-21 22:35:56 +0000",
@@ -5682,17 +5684,53 @@
     },
     "done": true
   },
+  "dungeons_enhanced:seven_world_wonders": {
+    "criteria": {
+      "entered_monster_maze": "2025-07-22 16:31:26 +0000"
+    },
+    "done": false
+  },
   "tombstone:adventure/village_defender": {
     "criteria": {
       "coded_trigger": "2025-07-22 16:32:22 +0000"
     },
     "done": true
   },
-  "dungeons_enhanced:seven_world_wonders": {
+  "dungeons_arise:find_bathhouse": {
     "criteria": {
-      "entered_monster_maze": "2025-07-22 16:31:26 +0000"
+      "location0": "2025-07-22 18:01:10 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-07-22 18:04:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-07-22 18:11:44 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_6": "2025-07-22 18:09:32 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-07-22 18:11:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-07-22 18:11:44 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
