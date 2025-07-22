@@ -5740,6 +5740,12 @@
     },
     "done": true
   },
+  "celestisynth:recipes/misc/celestial_netherite_ingot_blasting": {
+    "criteria": {
+      "has_item": "2025-07-22 20:29:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2025-07-22 19:17:56 +0000"
@@ -5914,6 +5920,12 @@
     },
     "done": true
   },
+  "celestisynth:recipes/misc/celestial_netherite_ingot_smelting": {
+    "criteria": {
+      "has_item": "2025-07-22 20:29:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-07-22 19:09:47 +0000"
@@ -6085,6 +6097,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-07-22 19:50:24 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:obtain_supernal_netherite_ingot": {
+    "criteria": {
+      "criteria": "2025-07-22 20:29:41 +0000"
     },
     "done": true
   },
