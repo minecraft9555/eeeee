@@ -4756,7 +4756,8 @@
   "cataclysm:kill_all_bosses": {
     "criteria": {
       "cataclysm:maledictus": "2025-07-21 23:25:34 +0000",
-      "cataclysm:scylla": "2025-07-22 03:29:23 +0000"
+      "cataclysm:scylla": "2025-07-22 03:29:23 +0000",
+      "cataclysm:the_leviathan": "2025-07-22 18:48:23 +0000"
     },
     "done": false
   },
@@ -5720,6 +5721,12 @@
   "dungeons_enhanced:rarest_structure": {
     "criteria": {
       "entered_mushroom_house": "2025-07-22 18:13:58 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_leviathan": {
+    "criteria": {
+      "ignis": "2025-07-22 18:48:23 +0000"
     },
     "done": true
   },
