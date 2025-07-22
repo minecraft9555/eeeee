@@ -5720,9 +5720,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-07-22 19:17:56 +0000"
+    },
+    "done": true
+  },
   "dungeons_enhanced:rarest_structure": {
     "criteria": {
       "entered_mushroom_house": "2025-07-22 18:13:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-07-22 19:17:56 +0000"
     },
     "done": true
   },
@@ -5755,6 +5767,12 @@
       "trickor_treat_6": "2025-07-22 18:09:32 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-07-22 19:17:56 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
