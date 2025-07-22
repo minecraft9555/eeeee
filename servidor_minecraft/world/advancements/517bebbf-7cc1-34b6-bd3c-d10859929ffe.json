@@ -135,6 +135,7 @@
       "temperate_grove": "2025-07-22 19:22:14 +0000",
       "grassland": "2025-07-21 20:25:21 +0000",
       "prairie": "2025-07-21 20:28:48 +0000",
+      "redwoods": "2025-07-22 19:44:22 +0000",
       "lupine_plains": "2025-07-22 03:16:04 +0000"
     },
     "done": false
@@ -149,6 +150,7 @@
       "temperate_grove": "2025-07-22 19:22:14 +0000",
       "grassland": "2025-07-21 20:25:21 +0000",
       "prairie": "2025-07-21 20:28:48 +0000",
+      "redwoods": "2025-07-22 19:44:22 +0000",
       "lupine_plains": "2025-07-22 03:16:04 +0000"
     },
     "done": false
@@ -1333,7 +1335,8 @@
       "bread": "2025-07-21 20:43:52 +0000",
       "rotten_flesh": "2025-07-22 02:39:15 +0000",
       "melon_slice": "2025-07-22 03:39:27 +0000",
-      "golden_carrot": "2025-07-22 03:25:22 +0000"
+      "golden_carrot": "2025-07-22 03:25:22 +0000",
+      "carrot": "2025-07-22 19:42:56 +0000"
     },
     "done": false
   },
@@ -4121,6 +4124,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-07-22 19:40:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
     "criteria": {
       "has_purple_dye": "2025-07-22 19:22:49 +0000"
@@ -4139,9 +4148,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-07-22 19:40:26 +0000"
+    },
+    "done": true
+  },
   "stellarity:dragons_den/cursed_tome/items/unlock_sabrewing": {
     "criteria": {
       "requirement": "2025-07-22 19:37:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-07-22 19:40:26 +0000"
     },
     "done": true
   },
@@ -4232,6 +4253,12 @@
   "stellarity:adventure/anger_enderman": {
     "criteria": {
       "anger_enderman": "2025-07-22 18:50:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-07-22 19:40:24 +0000"
     },
     "done": true
   },
