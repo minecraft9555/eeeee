@@ -1863,3 +1863,63 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Jul2025 19:28:47.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
 [22Jul2025 19:29:04.079] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
 [22Jul2025 19:29:29.339] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[22Jul2025 19:29:48.711] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4375ms or 87 ticks behind
+[22Jul2025 19:29:50.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [A Terrible Fortress]
+[22Jul2025 19:30:06.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2906ms or 58 ticks behind
+[22Jul2025 19:30:14.659] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JUANCITO[/127.128.110.199:54235] logged in with entity id 167630 at (311.3142567236559, 150.1733323797448, 124.60238691494486)
+[22Jul2025 19:30:14.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO joined the game
+[22Jul2025 19:30:14.712] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[22Jul2025 19:30:14.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ???: Meet me in the fractured clocktower.
+[22Jul2025 19:30:14.720] [Server thread/INFO] [Jade/]: Syncing config to JUANCITO (aaf7efa2-1e08-3838-8e73-f2145ba88e03)
+[22Jul2025 19:30:15.307] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of JUANCITO (18)
+[22Jul2025 19:30:15.307] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to JUANCITO
+[22Jul2025 19:30:24.291] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player aaf7efa2-1e08-3838-8e73-f2145ba88e03
+[22Jul2025 19:30:24.348] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2762ms or 55 ticks behind
+[22Jul2025 19:30:25.294] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player aaf7efa2-1e08-3838-8e73-f2145ba88e03
+[22Jul2025 19:30:25.295] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JUANCITO (aaf7efa2-1e08-3838-8e73-f2145ba88e03) successfully connected to voice chat
+[22Jul2025 19:30:42.591] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3255ms or 65 ticks behind
+[22Jul2025 19:31:03.474] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5888ms or 117 ticks behind
+[22Jul2025 19:31:25.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6772ms or 135 ticks behind
+[22Jul2025 19:31:45.940] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5754ms or 115 ticks behind
+[22Jul2025 19:32:07.277] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6341ms or 126 ticks behind
+[22Jul2025 19:32:12.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Into Fire]
+[22Jul2025 19:32:29.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7233ms or 144 ticks behind
+[22Jul2025 19:32:51.371] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6935ms or 138 ticks behind
+[22Jul2025 19:33:03.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Strange Biomes]
+[22Jul2025 19:33:03.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Darude - Firestorm]
+[22Jul2025 19:33:13.438] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7102ms or 142 ticks behind
+[22Jul2025 19:33:20.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUANCITO moved too quickly! 5.566438062062616,3.750000149011612,-8.115789425153785
+[22Jul2025 19:33:36.448] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8012ms or 160 ticks behind
+[22Jul2025 19:33:56.129] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4693ms or 93 ticks behind
+[22Jul2025 19:34:15.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- was slain by Nightmare Stalker
+[22Jul2025 19:34:15.833] [Server thread/INFO] [tombstone/]: The player -Azumi- has successfully been saved
+[22Jul2025 19:34:16.094] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
+[22Jul2025 19:34:36.059] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4973ms or 99 ticks behind
+[22Jul2025 19:34:38.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Spectator Mode]
+[22Jul2025 19:34:42.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Teleported JUANCITO to -Azumi-]
+[22Jul2025 19:34:55.129] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4093ms or 81 ticks behind
+[22Jul2025 19:34:57.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Creative Mode]
+[22Jul2025 19:35:07.497] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[22Jul2025 19:35:13.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3049ms or 60 ticks behind
+[22Jul2025 19:35:30.963] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2877ms or 57 ticks behind
+[22Jul2025 19:35:32.558] [Server thread/WARN] [tombstone/]: The death event of the player RODSQUARE was canceled by another mod
+[22Jul2025 19:35:32.569] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[22Jul2025 19:35:49.495] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3559ms or 71 ticks behind
+[22Jul2025 19:36:07.302] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2816ms or 56 ticks behind
+[22Jul2025 19:36:25.575] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3289ms or 65 ticks behind
+[22Jul2025 19:36:43.669] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3133ms or 62 ticks behind
+[22Jul2025 19:37:01.116] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2480ms or 49 ticks behind
+[22Jul2025 19:37:18.490] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2404ms or 48 ticks behind
+[22Jul2025 19:37:35.888] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2402ms or 48 ticks behind
+[22Jul2025 19:37:53.205] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2319ms or 46 ticks behind
+[22Jul2025 19:37:56.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <-Azumi-> Bordon
+[22Jul2025 19:38:02.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JUANCITO> ou
+[22Jul2025 19:38:02.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <-Azumi-> Vos tenes papel
+[22Jul2025 19:38:08.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JUANCITO> no
+[22Jul2025 19:38:11.476] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3290ms or 65 ticks behind
+[22Jul2025 19:38:14.901] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[22Jul2025 19:38:31.667] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5231ms or 104 ticks behind
+[22Jul2025 19:38:52.009] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5373ms or 107 ticks behind
+[22Jul2025 19:39:11.791] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4805ms or 96 ticks behind
+[22Jul2025 19:39:30.317] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3531ms or 70 ticks behind
+[22Jul2025 19:39:49.514] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4228ms or 84 ticks behind

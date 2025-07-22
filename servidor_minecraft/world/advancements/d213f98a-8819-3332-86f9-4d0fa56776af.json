@@ -1191,6 +1191,7 @@
       "minecraft:piglin_brute": "2025-07-21 23:59:37 +0000",
       "minecraft:creeper": "2025-07-21 19:49:22 +0000",
       "minecraft:evoker": "2025-07-22 16:32:55 +0000",
+      "minecraft:zombified_piglin": "2025-07-22 19:28:21 +0000",
       "minecraft:witch": "2025-07-22 01:34:02 +0000",
       "minecraft:wither_skeleton": "2025-07-21 19:47:06 +0000",
       "minecraft:husk": "2025-07-21 19:04:46 +0000",
@@ -5726,6 +5727,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-07-22 19:32:12 +0000"
+    },
+    "done": true
+  },
   "dungeons_enhanced:rarest_structure": {
     "criteria": {
       "entered_mushroom_house": "2025-07-22 18:13:58 +0000"
@@ -5753,6 +5760,12 @@
   "naturalist:recipes/naturalist/glow_goop": {
     "criteria": {
       "has_glow_berries": "2025-07-22 18:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-07-22 19:29:50 +0000"
     },
     "done": true
   },
@@ -5786,9 +5799,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-22 19:32:12 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/discreet_search": {
     "criteria": {
       "coded_trigger": "2025-07-22 18:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-22 19:32:12 +0000"
     },
     "done": true
   },
