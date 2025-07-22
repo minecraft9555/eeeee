@@ -1645,3 +1645,64 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Jul2025 18:36:46.662] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9026ms or 180 ticks behind
 [22Jul2025 18:37:12.987] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11351ms or 227 ticks behind
 [22Jul2025 18:37:37.787] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9801ms or 196 ticks behind
+[22Jul2025 18:38:03.459] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10673ms or 213 ticks behind
+[22Jul2025 18:38:24.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <-Azumi-> Papu
+[22Jul2025 18:38:28.047] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9611ms or 192 ticks behind
+[22Jul2025 18:38:30.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <-Azumi-> Tenes para dormir?
+[22Jul2025 18:38:51.835] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8799ms or 175 ticks behind
+[22Jul2025 18:39:16.792] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10006ms or 200 ticks behind
+[22Jul2025 18:39:35.522] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ryoko'/1557, l='ServerLevel[world]', x=-7492.91, y=72.56, z=235.50] died, message: 'Ryoko suffocated in a wall'
+[22Jul2025 18:39:35.523] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ryoko'/1557, l='ServerLevel[world]', x=-7492.91, y=72.56, z=235.50] died: Ryoko suffocated in a wall
+[22Jul2025 18:39:42.294] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10508ms or 210 ticks behind
+[22Jul2025 18:40:06.633] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9347ms or 186 ticks behind
+[22Jul2025 18:40:30.878] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9292ms or 185 ticks behind
+[22Jul2025 18:40:55.756] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9920ms or 198 ticks behind
+[22Jul2025 18:41:19.894] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9158ms or 183 ticks behind
+[22Jul2025 18:41:43.628] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8742ms or 174 ticks behind
+[22Jul2025 18:41:50.279] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[22Jul2025 18:41:52.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE moved too quickly! -0.053414715142935165,-18.0,-1.0454370515050186
+[22Jul2025 18:42:08.191] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9605ms or 192 ticks behind
+[22Jul2025 18:42:08.482] [Server thread/WARN] [tombstone/]: The death event of the player RODSQUARE was canceled by another mod
+[22Jul2025 18:42:08.491] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[22Jul2025 18:42:17.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was killed by The Leviathan using magic
+[22Jul2025 18:42:17.405] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[22Jul2025 18:42:33.353] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10167ms or 203 ticks behind
+[22Jul2025 18:42:35.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has reached the goal [Discreet Search]
+[22Jul2025 18:42:43.449] [Server thread/WARN] [tombstone/]: The death event of the player RODSQUARE was canceled by another mod
+[22Jul2025 18:42:43.462] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[22Jul2025 18:42:52.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has left this dimension
+[22Jul2025 18:42:52.444] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[22Jul2025 18:42:57.925] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9589ms or 191 ticks behind
+[22Jul2025 18:43:22.749] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9863ms or 197 ticks behind
+[22Jul2025 18:43:26.775] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[22Jul2025 18:43:43.193] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[22Jul2025 18:43:48.929] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11193ms or 223 ticks behind
+[22Jul2025 18:44:16.352] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12466ms or 249 ticks behind
+[22Jul2025 18:44:29.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has reached the goal [Strong or Careful]
+[22Jul2025 18:44:29.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- was slain by Nightmare Stalker
+[22Jul2025 18:44:29.775] [Server thread/INFO] [tombstone/]: The player -Azumi- has successfully been saved
+[22Jul2025 18:44:40.795] [Server thread/WARN] [tombstone/]: The death event of the player RODSQUARE was canceled by another mod
+[22Jul2025 18:44:40.799] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[22Jul2025 18:44:40.957] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9621ms or 192 ticks behind
+[22Jul2025 18:44:45.702] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Carole'/68346, l='ServerLevel[world]', x=-7152.65, y=69.00, z=-1082.04] died, message: 'Carole (Following) was slain by Zombie Girl'
+[22Jul2025 18:44:45.704] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Carole'/68346, l='ServerLevel[world]', x=-7152.65, y=69.00, z=-1082.04] died: Carole (Following) was slain by Zombie Girl
+[22Jul2025 18:45:05.586] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9650ms or 193 ticks behind
+[22Jul2025 18:45:20.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has reached the goal [Fighting Nightmares]
+[22Jul2025 18:45:21.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was exterminated by The Leviathan 's laser
+[22Jul2025 18:45:21.697] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[22Jul2025 18:45:29.531] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8945ms or 178 ticks behind
+[22Jul2025 18:45:53.956] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9470ms or 189 ticks behind
+[22Jul2025 18:46:20.675] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11739ms or 234 ticks behind
+[22Jul2025 18:46:26.628] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[22Jul2025 18:46:29.484] [Server thread/WARN] [tombstone/]: The death event of the player RODSQUARE was canceled by another mod
+[22Jul2025 18:46:29.491] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[22Jul2025 18:46:43.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was killed by The Leviathan using magic
+[22Jul2025 18:46:43.463] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[22Jul2025 18:46:47.579] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11943ms or 238 ticks behind
+[22Jul2025 18:46:53.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was killed by The Leviathan using magic
+[22Jul2025 18:46:53.522] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[22Jul2025 18:47:14.735] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12199ms or 243 ticks behind
+[22Jul2025 18:47:29.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.traveloptics.aqua_missiles
+[22Jul2025 18:47:29.909] [Server thread/INFO] [tombstone/]: The player -Azumi- has successfully been saved
+[22Jul2025 18:47:42.487] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12801ms or 256 ticks behind
+[22Jul2025 18:48:01.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has made the advancement [Tools of the Trade]
