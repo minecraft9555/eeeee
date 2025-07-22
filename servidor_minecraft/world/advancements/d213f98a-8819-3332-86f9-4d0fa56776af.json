@@ -1187,6 +1187,7 @@
       "minecraft:blaze": "2025-07-22 00:10:22 +0000",
       "minecraft:skeleton": "2025-07-21 18:06:19 +0000",
       "minecraft:ravager": "2025-07-21 19:49:15 +0000",
+      "minecraft:ghast": "2025-07-22 20:03:21 +0000",
       "minecraft:hoglin": "2025-07-22 00:00:18 +0000",
       "minecraft:vindicator": "2025-07-21 17:34:33 +0000",
       "minecraft:magma_cube": "2025-07-21 18:27:31 +0000",
@@ -4948,6 +4949,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:soul_sand_valley": "2025-07-22 20:04:34 +0000",
       "minecraft:basalt_deltas": "2025-07-21 23:57:49 +0000"
     },
     "done": false
@@ -5720,6 +5722,18 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-07-22 20:05:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:withered_forest/kill_spirit": {
+    "criteria": {
+      "requirement": "2025-07-22 19:59:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-07-22 18:11:44 +0000"
@@ -5750,6 +5764,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-07-22 20:04:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-22 19:50:24 +0000"
@@ -5768,9 +5788,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-07-22 20:04:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-22 19:50:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-07-22 20:04:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-07-22 20:04:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-07-22 20:04:31 +0000"
     },
     "done": true
   },
@@ -5864,6 +5908,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/black_dye_from_dorcel": {
+    "criteria": {
+      "has_dorcel": "2025-07-22 19:58:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-22 19:50:24 +0000"
@@ -5897,6 +5947,12 @@
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2025-07-22 19:17:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-07-22 20:04:31 +0000"
     },
     "done": true
   },
@@ -5951,6 +6007,18 @@
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-22 19:50:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-07-22 20:04:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-07-22 20:04:31 +0000"
     },
     "done": true
   },
