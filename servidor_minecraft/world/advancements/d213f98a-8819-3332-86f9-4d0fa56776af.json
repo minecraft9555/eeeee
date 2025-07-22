@@ -5722,15 +5722,15 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-07-22 20:05:11 +0000"
-    },
-    "done": false
-  },
   "incendium:withered_forest/kill_spirit": {
     "criteria": {
       "requirement": "2025-07-22 19:59:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-07-22 20:08:24 +0000"
     },
     "done": true
   },
@@ -5767,6 +5767,12 @@
   "securitycraft:recipes/building_blocks/reinforced_granite": {
     "criteria": {
       "has_quartz": "2025-07-22 20:04:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/brimwood_fence_gate": {
+    "criteria": {
+      "has_brimwood_planks": "2025-07-22 20:14:48 +0000"
     },
     "done": true
   },
@@ -5845,6 +5851,12 @@
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-07-22 19:49:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/brimwood_pressure_plate": {
+    "criteria": {
+      "has_brimwood_planks": "2025-07-22 20:14:48 +0000"
     },
     "done": true
   },
@@ -5968,6 +5980,24 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/brimwood_fence": {
+    "criteria": {
+      "has_brimwood_planks": "2025-07-22 20:14:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/brimwood_slab": {
+    "criteria": {
+      "has_brimwood_planks": "2025-07-22 20:14:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/brimwood_sign": {
+    "criteria": {
+      "has_brimwood_planks": "2025-07-22 20:14:48 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/brimwood_wood": {
     "criteria": {
       "has_log": "2025-07-22 19:57:16 +0000"
@@ -5983,6 +6013,12 @@
   "ancient_elements:hammer_time": {
     "criteria": {
       "hammer_time": "2025-07-22 19:58:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/brimwood_button": {
+    "criteria": {
+      "has_brimwood_planks": "2025-07-22 20:14:48 +0000"
     },
     "done": true
   },
@@ -6028,9 +6064,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/brimwood_stairs": {
+    "criteria": {
+      "has_brimwood_planks": "2025-07-22 20:14:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-22 19:50:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/brimwood_trapdoor": {
+    "criteria": {
+      "has_brimwood_planks": "2025-07-22 20:14:48 +0000"
     },
     "done": true
   },
@@ -6073,6 +6121,12 @@
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-07-22 19:48:20 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/brimwood_door": {
+    "criteria": {
+      "has_brimwood_planks": "2025-07-22 20:14:48 +0000"
     },
     "done": true
   },
